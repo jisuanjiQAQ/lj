@@ -1,5 +1,5 @@
 # Android device tree for vivo vivo 1907 (k68v1_64)
-
+computer
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project
